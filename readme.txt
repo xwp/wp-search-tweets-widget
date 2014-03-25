@@ -7,7 +7,7 @@ Stable tag:        trunk
 License:           GPLv2 or later
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
 
-Provides Twitter query search, like `from:WordPress, OR from:photomatt`, and gets the search results rendered as a widget. The results will get updated frequently.
+Provides Twitter query search, like `from:WordPress, OR from:photomatt`, and gets the search results rendered as a widget.
 
 == Description ==
 
