@@ -1,0 +1,28 @@
+.search_tweets_widget .tweets {
+	height: 215px;
+	overflow-y: scroll;
+	padding-top: 10px;
+	border-top: 2px dotted #999;
+	margin-top: 5px;
+}
+
+.search_tweets_widget .tweet {
+	margin-bottom: 10px;
+	clear: both;
+}
+
+.search_tweets_widget .tweet img {
+	float: left;
+	margin:0 5px 4px 0;
+}
+
+.search_tweets_widget .tweet .text {
+	font-size: 0.8em;
+	overflow: hidden;
+}
+
+.search_tweets_widget .follow {
+	font-weight: bold;
+	margin:10px 0 4px 0;
+	display: block;
+}
