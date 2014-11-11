@@ -1,5 +1,5 @@
 === Search Tweets Widget ===
-Contributors:      akeda, westonruter, X-team
+Contributors:      akeda, westonruter, xwp
 Tags:              twitter, search, widget
 Requires at least: 3.6
 Tested up to:      3.8.1
@@ -13,7 +13,7 @@ Provides Twitter query search, like `from:WordPress, OR from:photomatt`, and get
 
 Provides Twitter query search, like `from:WordPress, OR from:photomatt`, and gets the search results rendered as a widget. The results will get updated frequently.
 
-**Development of this plugin is done on [GitHub](https://github.com/x-team/wp-search-tweets-widget). Pull requests are always welcome**.
+**Development of this plugin is done on [GitHub](https://github.com/xwp/wp-search-tweets-widget). Pull requests are always welcome**.
 
 == Installation ==
 

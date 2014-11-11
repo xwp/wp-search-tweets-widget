@@ -3,20 +3,25 @@
 
 Provides Twitter query search, like `from:WordPress, OR from:photomatt`, and gets the search results rendered as a widget.
 
-**Contributors:** [akeda](http://profiles.wordpress.org/akeda), [westonruter](http://profiles.wordpress.org/westonruter), [x-team](http://profiles.wordpress.org/x-team)  
+**Contributors:** [akeda](http://profiles.wordpress.org/akeda), [westonruter](http://profiles.wordpress.org/westonruter), [xwp](http://profiles.wordpress.org/xwp)  
 **Tags:** [twitter](http://wordpress.org/plugins/tags/twitter), [search](http://wordpress.org/plugins/tags/search), [widget](http://wordpress.org/plugins/tags/widget)  
 **Requires at least:** 3.6  
 **Tested up to:** 3.8.1  
 **Stable tag:** trunk (master)  
 **License:** [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)  
 
+[![Build Status](https://travis-ci.org/xwp/wp-search-tweets-widget.png?branch=master)](https://travis-ci.org/xwp/wp-search-tweets-widget) 
+
 ## Description ##
 
 Provides Twitter query search, like `from:WordPress, OR from:photomatt`, and gets the search results rendered as a widget. The results will get updated frequently.
 
-**Development of this plugin is done on [GitHub](https://github.com/x-team/wp-search-tweets-widget). Pull requests are always welcome**.
+**Development of this plugin is done on [GitHub](https://github.com/xwp/wp-search-tweets-widget). Pull requests are always welcome**.
 
 ## Installation ##
+
+1. Upload **Search Tweets Widget** plugin to your blog's `wp-content/plugins/` directory and activate.
+2. Go to **Settings** > **Search Tweets Widget** to fill your consumer key and consumer secret key. You need to authorize the app afterward.
 
 ### How to use ###
 1. Go to **Appearance** > **Widgets**
