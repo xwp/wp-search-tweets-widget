@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Search Tweets Widget
- * Plugin URI: https://github.com/x-team/wp-search-tweets-widget
+ * Plugin URI: https://github.com/xwp/wp-search-tweets-widget
  * Description: Search for tweets via Twitter search API then makes the results available in widgets
  * Version: 0.1.0
- * Author: X-Team, Akeda Bagus
- * Author URI: http://x-team.com/wordpress
+ * Author: XWP, Akeda Bagus
+ * Author URI: https://xwp.co/
  * Text Domain: search-tweets-widget
  * Domain Path: /languages
  * License: GPL v2 or later

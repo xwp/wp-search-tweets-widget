@@ -3,7 +3,7 @@
 
 Provides Twitter query search, like `from:WordPress, OR from:photomatt`, and gets the search results rendered as a widget.
 
-**Contributors:** [akeda](http://profiles.wordpress.org/akeda), [westonruter](http://profiles.wordpress.org/westonruter), [x-team](http://profiles.wordpress.org/x-team)  
+**Contributors:** [akeda](http://profiles.wordpress.org/akeda), [westonruter](http://profiles.wordpress.org/westonruter), [xwp](http://profiles.wordpress.org/xwp)  
 **Tags:** [twitter](http://wordpress.org/plugins/tags/twitter), [search](http://wordpress.org/plugins/tags/search), [widget](http://wordpress.org/plugins/tags/widget)  
 **Requires at least:** 3.6  
 **Tested up to:** 3.8.1  
@@ -14,7 +14,7 @@ Provides Twitter query search, like `from:WordPress, OR from:photomatt`, and get
 
 Provides Twitter query search, like `from:WordPress, OR from:photomatt`, and gets the search results rendered as a widget. The results will get updated frequently.
 
-**Development of this plugin is done on [GitHub](https://github.com/x-team/wp-search-tweets-widget). Pull requests are always welcome**.
+**Development of this plugin is done on [GitHub](https://github.com/xwp/wp-search-tweets-widget). Pull requests are always welcome**.
 
 ## Installation ##
 
